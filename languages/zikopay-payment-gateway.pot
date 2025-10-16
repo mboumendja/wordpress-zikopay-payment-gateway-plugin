@@ -1,0 +1,21 @@
+# This file is distributed under the same license as the Zikopay Payment Gateway package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Zikopay Payment Gateway 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/zikopay\n"
+"POT-Creation-Date: 2024-01-01 00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Zikopay Payment Gateway for WooCommerce"
+msgstr ""
+
+msgid "Accept Mobile Money and Card payments across Africa via Zikopay"
+msgstr ""
+
+msgid "Mobile Money & Card Payment"
+msgstr ""
+
+msgid "Pay securely using Mobile Money or Credit/Debit Card."
+msgstr ""
